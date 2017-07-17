@@ -1,0 +1,34 @@
+div(class = 'main container-fluid') 
+	h1(class = 'main-title') POMODORO CLOCK
+			
+	.clock.row
+		.col-4
+		button(class = 'start-stop col-4') 
+			h3(class = 'start-stop-session-title') START
+		.col-4
+		.col-4
+		button(class = 'reset col-4')
+			h3(class = 'reset-session-title') RESET
+		.col-4
+		
+		.length-session-break-row.row
+			h5(class = 'length-break-title col') BREAK LENGTH
+				br
+				br
+				button(class = 'clock-break-minus buttons-height-width') -
+				button(class = 'clock-break-plus buttons-height-width') +									
+			h5(class = 'length-session-title col') SESSION LENGTH
+				br
+				br
+				button(class = 'clock-session-minus buttons-height-width') -
+				button(class = 'clock-session-plus buttons-height-width') +
+				
+	.clock-tomato
+		.clock-tomato-content
+			.breakUpdated BREAK TIME: 05
+			.sessionUpdated SESSION TIME: 25
+			.time 25:00
+
+	
+.codedBy CODED BY: 
+	span PAULO RAONI
