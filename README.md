@@ -13,13 +13,13 @@
 ## Credits
 
 #### Audio:
-######- [FREESOUND.ORG](http://freesound.org/)
-######- [SOUNDBIBLE.COM](http://soundbible.com/)
+###### - [FREESOUND.ORG](http://freesound.org/)
+###### - [SOUNDBIBLE.COM](http://soundbible.com/)
 
 #### Frameworks/Libraries/Preprocessors:
-######- [jQuery](https://jquery.com/)
-######- [Bootstrap](https://v4-alpha.getbootstrap.com/)
-######- [Pug](https://pugjs.org/api/getting-started.html)
+###### - [jQuery](https://jquery.com/)
+###### - [Bootstrap](https://v4-alpha.getbootstrap.com/)
+###### - [Pug](https://pugjs.org/api/getting-started.html)
 
 #### IDE:
-######- Special Thanks to [CODEPEN](https://codepen.io/)
+###### - Special Thanks to [CODEPEN](https://codepen.io/)
