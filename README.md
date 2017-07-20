@@ -16,18 +16,33 @@
 ## Credits
 
 #### Audio:
+
 - [FREESOUND.ORG](http://freesound.org/)
+
 - [SOUNDBIBLE.COM](http://soundbible.com/)
 
 #### Frameworks/Libraries/Preprocessors/Repositories:
+
 - [jQuery](https://jquery.com/)
+
 - [Bootstrap](https://v4-alpha.getbootstrap.com/)
+
 - [Pug](https://pugjs.org/api/getting-started.html)
+
 - [Google Fonts](https://fonts.google.com)
 
-#### IDE:
-- Special Thanks to [CODEPEN](https://codepen.io/)
+##### IDE:
 
+- [CODEPEN](https://codepen.io/)
+
+- [Brackets](http://brackets.io/)
+
+
+##### Special Thanks to:
+
+- [Free Code Camp](https://www.freecodecamp.com/) and [Quincy Larson](https://www.linkedin.com/in/quincylarson/).
+
+- [StackOverFlow](https://stackoverflow.com/)  
 
 ## Licence
 
