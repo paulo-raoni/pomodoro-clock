@@ -4,9 +4,13 @@
 
 ## Features
 - Increase/Decrease session and break leangths(the during times of both).
+
 - Sound of typing when session time starts.
+
 - Sound of boxing gong when break time starts.
+
 - Color of big circle(representing a tomato) turns into gray when the break time starts.
+
 - Responsive designed for mobile browsers.
 
 ## Credits
