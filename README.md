@@ -10,17 +10,17 @@
 
 ## Credits
 
-#### Audio:
+##### Audio:
 - [FREESOUND.ORG](http://freesound.org/)
 - [SOUNDBIBLE.COM](http://soundbible.com/)
 
-#### Frameworks/Libraries/Preprocessors:
+##### Frameworks/Libraries/Preprocessors/Repositories:
 - [jQuery](https://jquery.com/)
 - [Bootstrap](https://v4-alpha.getbootstrap.com/)
 - [Pug](https://pugjs.org/api/getting-started.html)
 - [Google Fonts](https://fonts.google.com)
 
-#### IDE:
+##### IDE:
 - Special Thanks to [CODEPEN](https://codepen.io/)
 
 
