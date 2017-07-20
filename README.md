@@ -31,14 +31,14 @@
 
 - [Google Fonts](https://fonts.google.com)
 
-##### IDE:
+#### IDE:
 
 - [CODEPEN](https://codepen.io/)
 
 - [Brackets](http://brackets.io/)
 
 
-##### Special Thanks to:
+#### Special Thanks to:
 
 - [Free Code Camp](https://www.freecodecamp.com/) and [Quincy Larson](https://www.linkedin.com/in/quincylarson/).
 
